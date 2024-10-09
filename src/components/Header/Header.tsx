@@ -15,7 +15,7 @@ export const Header = () => {
 
   return (
     <header className={`default-wrapper-width ${styles.header}`}>
-      <h1>⛹️ NBA Cards</h1>
+      <h1>title</h1>
       <button
         className={`${styles.headerButton} ${
           theme === "light" ? "dark" : "light"
