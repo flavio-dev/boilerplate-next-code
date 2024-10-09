@@ -1,0 +1,12 @@
+.header {
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerButton {
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 20px;
+}
